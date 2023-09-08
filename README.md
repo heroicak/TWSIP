@@ -1,1 +1,1 @@
- https://heroicak.github.io/TWSIP/
+ https://heroicak.github.io/TWSIP/flipkart
