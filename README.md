@@ -1,1 +1,3 @@
- https://heroicak.github.io/TWSIP/flipkart/landing
+ https://heroicak.github.io/TWSIP/flipkart/
+ https://heroicak.github.io/TWSIP/landing/
+
